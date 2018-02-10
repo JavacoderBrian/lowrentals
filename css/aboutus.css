@@ -1,0 +1,14 @@
+html { 
+    background: url('../img/singlechair lake.JPG') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;    
+}
+.testi{
+    font-family:Paprika;
+    font-size:20px;
+    text-align:center;
+    color:white;
+    text-shadow: 1px 1px #33A1BD;
+}
